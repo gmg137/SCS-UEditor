@@ -54,7 +54,11 @@ SCS-UEditor
 		$bucket = "";   //你的 bucket 名称
     
 
-   
+##截图
+![2014-09-06 16 18 10](https://cloud.githubusercontent.com/assets/6460323/4174895/5403aae6-35b0-11e4-9fbc-50b8cd7c625b.png)
+![2014-09-06 16 20 46](https://cloud.githubusercontent.com/assets/6460323/4174891/4d232f3a-35b0-11e4-95da-80bb85bfac6d.png)
+![2014-09-06 16 28 36](https://cloud.githubusercontent.com/assets/6460323/4174918/aaf505ec-35b1-11e4-93da-65648a07dcc4.png)
+
    
 ##其它
 
